@@ -18,7 +18,7 @@ public class BirthdayMonth {
 		switch(month) {
 		case 1:
 		{
-			System.out.println("January Happy Birthday");
+			System.out.println("January Happy Birthday to you");
 			break;
 		}
 		case 2:
