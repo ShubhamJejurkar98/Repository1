@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-07T08:50:46.097Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="D5G-pGozf6qJ3lI37B20" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-07T08:51:42.864Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="HKjaNW8o4NxCDUX0-L8X" version="20.0.4" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -135,6 +135,12 @@
         </mxCell>
         <mxCell id="RgW9Eq6CkmTzd8PvrJog-1" value="Validate&amp;nbsp;&lt;br&gt;captcha" style="shape=rhombus;html=1;dashed=0;whitespace=wrap;perimeter=rhombusPerimeter;" vertex="1" parent="1">
           <mxGeometry x="330" y="200" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RgW9Eq6CkmTzd8PvrJog-4" value="For Victim registration" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RgW9Eq6CkmTzd8PvrJog-5" value="Donation" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="15" y="455" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
