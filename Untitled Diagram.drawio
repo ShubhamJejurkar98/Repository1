@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-07T07:11:00.774Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="VRuBw3tRfgG-LjhL8Kln" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-07T08:50:46.097Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="D5G-pGozf6qJ3lI37B20" version="20.0.4" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1038" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,20 +31,17 @@
         <mxCell id="zD06de2tq-3I4Wdeoepe-9" value="Accept/Reject Input" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="360" y="130" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zD06de2tq-3I4Wdeoepe-10" value="Validate captcha" style="html=1;dashed=0;whitespace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="320" y="200" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="zD06de2tq-3I4Wdeoepe-11" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+        <mxCell id="zD06de2tq-3I4Wdeoepe-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1" target="zD06de2tq-3I4Wdeoepe-13" source="RgW9Eq6CkmTzd8PvrJog-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="369.58" y="250" as="sourcePoint" />
-            <mxPoint x="369" y="320" as="targetPoint" />
+            <mxPoint x="370.58" y="280" as="sourcePoint" />
+            <mxPoint x="370" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zD06de2tq-3I4Wdeoepe-12" value="Verify" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="370" y="270" width="50" height="30" as="geometry" />
+          <mxGeometry x="370" y="290" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zD06de2tq-3I4Wdeoepe-13" value="Confirm&amp;nbsp;&lt;br&gt;Registration" style="html=1;dashed=0;whitespace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="320" y="320" width="100" height="50" as="geometry" />
+          <mxGeometry x="320" y="350" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zD06de2tq-3I4Wdeoepe-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="zD06de2tq-3I4Wdeoepe-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -135,6 +132,9 @@
         </mxCell>
         <mxCell id="ofLkS4H4id4gsJTmKJAa-11" value="Donation receipt/Email from Bank&amp;nbsp;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="680" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RgW9Eq6CkmTzd8PvrJog-1" value="Validate&amp;nbsp;&lt;br&gt;captcha" style="shape=rhombus;html=1;dashed=0;whitespace=wrap;perimeter=rhombusPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="330" y="200" width="80" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
