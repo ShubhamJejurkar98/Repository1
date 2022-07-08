@@ -1,146 +1,107 @@
-<mxfile host="app.diagrams.net" modified="2022-07-07T08:51:42.864Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="HKjaNW8o4NxCDUX0-L8X" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-08T16:26:18.316Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="14ISlzmomLsT-U8E_KvY" version="20.0.4" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="zD06de2tq-3I4Wdeoepe-2" value="Victim" style="html=1;dashed=0;whitespace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="80" y="50" width="100" height="50" as="geometry" />
+        <mxCell id="3bdH6hXz5BwusYVC5dem-20" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3bdH6hXz5BwusYVC5dem-1" target="3bdH6hXz5BwusYVC5dem-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zD06de2tq-3I4Wdeoepe-3" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="180" y="80" as="sourcePoint" />
-            <mxPoint x="320" y="80" as="targetPoint" />
+        <mxCell id="3bdH6hXz5BwusYVC5dem-35" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3bdH6hXz5BwusYVC5dem-1" target="3bdH6hXz5BwusYVC5dem-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3bdH6hXz5BwusYVC5dem-42" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3bdH6hXz5BwusYVC5dem-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zD06de2tq-3I4Wdeoepe-4" value="Registration Form" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="190" y="50" width="120" height="30" as="geometry" />
+        <mxCell id="3bdH6hXz5BwusYVC5dem-1" value="Victim" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="390" y="320" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="zD06de2tq-3I4Wdeoepe-5" value="Take details from &lt;br&gt;victims" style="html=1;dashed=0;whitespace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="320" y="50" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="zD06de2tq-3I4Wdeoepe-7" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="369.5" y="100" as="sourcePoint" />
-            <mxPoint x="369" y="200" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zD06de2tq-3I4Wdeoepe-8" value="victim&lt;br&gt;Registration&lt;br&gt;Database" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" parent="1" vertex="1">
-          <mxGeometry x="560" y="190" width="70" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="zD06de2tq-3I4Wdeoepe-9" value="Accept/Reject Input" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="360" y="130" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="zD06de2tq-3I4Wdeoepe-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1" target="zD06de2tq-3I4Wdeoepe-13" source="RgW9Eq6CkmTzd8PvrJog-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="370.58" y="280" as="sourcePoint" />
-            <mxPoint x="370" y="370" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zD06de2tq-3I4Wdeoepe-12" value="Verify" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="370" y="290" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="zD06de2tq-3I4Wdeoepe-13" value="Confirm&amp;nbsp;&lt;br&gt;Registration" style="html=1;dashed=0;whitespace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="320" y="350" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="zD06de2tq-3I4Wdeoepe-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="zD06de2tq-3I4Wdeoepe-8" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="420" y="350" as="sourcePoint" />
-            <mxPoint x="470" y="300" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zD06de2tq-3I4Wdeoepe-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="zD06de2tq-3I4Wdeoepe-13" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200" y="260" as="sourcePoint" />
-            <mxPoint x="129.57999999999998" y="100" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zD06de2tq-3I4Wdeoepe-16" value="Registration Message/Email" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;rotation=52;" parent="1" vertex="1">
-          <mxGeometry x="120" y="210" width="170" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="zD06de2tq-3I4Wdeoepe-17" value="Donation(Money)" style="html=1;dashed=0;whitespace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="320" y="660" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="zD06de2tq-3I4Wdeoepe-18" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="220" y="544.5" as="sourcePoint" />
-            <mxPoint x="320" y="544.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zD06de2tq-3I4Wdeoepe-20" value="Details of Donor" style="html=1;dashed=0;whitespace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="320" y="520" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="zD06de2tq-3I4Wdeoepe-21" value="Donor details database" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="500" width="60" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="zD06de2tq-3I4Wdeoepe-22" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="370" y="570" as="sourcePoint" />
-            <mxPoint x="370" y="660" as="targetPoint" />
+        <mxCell id="3bdH6hXz5BwusYVC5dem-22" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="3bdH6hXz5BwusYVC5dem-7" target="3bdH6hXz5BwusYVC5dem-1">
+          <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="370" y="630" />
+              <mxPoint x="750" y="420" />
+              <mxPoint x="430" y="420" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zD06de2tq-3I4Wdeoepe-23" value="Name,Email,Address,&lt;br&gt;Amount of donation" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="360" y="600" width="140" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="zD06de2tq-3I4Wdeoepe-24" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="420" y="544.5" as="sourcePoint" />
-            <mxPoint x="520" y="545" as="targetPoint" />
+        <mxCell id="3bdH6hXz5BwusYVC5dem-38" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="3bdH6hXz5BwusYVC5dem-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="360" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="750" y="480" />
+              <mxPoint x="180" y="480" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zD06de2tq-3I4Wdeoepe-25" value="Donor" style="html=1;dashed=0;whitespace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="120" y="515" width="100" height="50" as="geometry" />
+        <mxCell id="3bdH6hXz5BwusYVC5dem-7" value="D1&amp;nbsp; &amp;nbsp; &amp;nbsp; Registration&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Database" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="700" y="330" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zD06de2tq-3I4Wdeoepe-27" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" target="zD06de2tq-3I4Wdeoepe-28" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="370" y="710" as="sourcePoint" />
-            <mxPoint x="370" y="800" as="targetPoint" />
+        <mxCell id="3bdH6hXz5BwusYVC5dem-21" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3bdH6hXz5BwusYVC5dem-19" target="3bdH6hXz5BwusYVC5dem-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3bdH6hXz5BwusYVC5dem-19" value="Registration form" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="540" y="240" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3bdH6hXz5BwusYVC5dem-26" value="Details of Victim&amp;nbsp;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="255" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3bdH6hXz5BwusYVC5dem-27" value="Registration Message" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="390" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3bdH6hXz5BwusYVC5dem-32" value="&amp;nbsp; Rescue&amp;nbsp; &lt;br&gt;Team" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="140" y="380" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3bdH6hXz5BwusYVC5dem-34" value="Ask for help" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="600" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3bdH6hXz5BwusYVC5dem-40" value="Rescue&amp;nbsp; team will get victim details" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="780" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3bdH6hXz5BwusYVC5dem-43" value="Request for Resources" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="600" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3bdH6hXz5BwusYVC5dem-44" value="Relief provider" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="190" y="130" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3bdH6hXz5BwusYVC5dem-49" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3bdH6hXz5BwusYVC5dem-46" target="3bdH6hXz5BwusYVC5dem-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3bdH6hXz5BwusYVC5dem-55" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3bdH6hXz5BwusYVC5dem-46" target="3bdH6hXz5BwusYVC5dem-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3bdH6hXz5BwusYVC5dem-59" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3bdH6hXz5BwusYVC5dem-46" target="3bdH6hXz5BwusYVC5dem-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3bdH6hXz5BwusYVC5dem-46" value="Victim" style="html=1;dashed=0;whitespace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="375" y="550" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3bdH6hXz5BwusYVC5dem-50" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3bdH6hXz5BwusYVC5dem-47" target="3bdH6hXz5BwusYVC5dem-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3bdH6hXz5BwusYVC5dem-47" value="Registration Form" style="html=1;dashed=0;whitespace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="375" y="660" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3bdH6hXz5BwusYVC5dem-56" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="3bdH6hXz5BwusYVC5dem-48" target="3bdH6hXz5BwusYVC5dem-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3bdH6hXz5BwusYVC5dem-48" value="D1&amp;nbsp; &amp;nbsp; &amp;nbsp; Registration&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Database" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="363" y="810" width="125" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3bdH6hXz5BwusYVC5dem-51" value="Details of Victim&amp;nbsp;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="425" y="740" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3bdH6hXz5BwusYVC5dem-54" value="Rescue Team" style="html=1;dashed=0;whitespace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="110" y="680" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3bdH6hXz5BwusYVC5dem-58" value="Relief Provider" style="html=1;dashed=0;whitespace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="640" y="680" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3bdH6hXz5BwusYVC5dem-60" value="Resources" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="710" y="800" width="130" height="90" as="geometry">
+            <mxRectangle x="610" y="770" width="140" height="30" as="alternateBounds" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="zD06de2tq-3I4Wdeoepe-28" value="Bank Account" style="html=1;dashed=0;whitespace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="320" y="790" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="ofLkS4H4id4gsJTmKJAa-1" value="Bank server" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="365" y="735" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ofLkS4H4id4gsJTmKJAa-2" value="Bank Database" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="550" y="645" width="60" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="ofLkS4H4id4gsJTmKJAa-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=52.5;entryPerimeter=0;" parent="1" target="ofLkS4H4id4gsJTmKJAa-2" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="420" y="815" as="sourcePoint" />
-            <mxPoint x="470" y="765" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ofLkS4H4id4gsJTmKJAa-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.145;entryY=0;entryDx=0;entryDy=4.35;entryPerimeter=0;" parent="1" target="ofLkS4H4id4gsJTmKJAa-2" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="420" y="560" as="sourcePoint" />
-            <mxPoint x="470" y="570" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ofLkS4H4id4gsJTmKJAa-8" value="Donation form" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="220" y="515" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ofLkS4H4id4gsJTmKJAa-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="zD06de2tq-3I4Wdeoepe-28" target="zD06de2tq-3I4Wdeoepe-25" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="310" y="810" as="sourcePoint" />
-            <mxPoint x="270" y="760" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ofLkS4H4id4gsJTmKJAa-11" value="Donation receipt/Email from Bank&amp;nbsp;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="680" width="210" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="RgW9Eq6CkmTzd8PvrJog-1" value="Validate&amp;nbsp;&lt;br&gt;captcha" style="shape=rhombus;html=1;dashed=0;whitespace=wrap;perimeter=rhombusPerimeter;" vertex="1" parent="1">
-          <mxGeometry x="330" y="200" width="80" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="RgW9Eq6CkmTzd8PvrJog-4" value="For Victim registration" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="10" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="RgW9Eq6CkmTzd8PvrJog-5" value="Donation" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="15" y="455" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
